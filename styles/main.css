@@ -1,0 +1,10 @@
+.list {
+    display: flex;
+    flex-direction: row;
+}
+
+.shop {
+    width: 20px;
+    border-style: dotted;
+}
+
